@@ -1,0 +1,10 @@
+LICENSE
+README.md
+setup.py
+cmu_stretch_dataset/__init__.py
+cmu_stretch_dataset/cmu_stretch_dataset.py
+cmu_stretch_dataset/create_example_data.py
+cmu_stretch_dataset.egg-info/PKG-INFO
+cmu_stretch_dataset.egg-info/SOURCES.txt
+cmu_stretch_dataset.egg-info/dependency_links.txt
+cmu_stretch_dataset.egg-info/top_level.txt
